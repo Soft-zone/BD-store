@@ -1,0 +1,85 @@
+.{
+	margin:0px;
+	padding:0px;
+}
+@font-face{
+	font-family:yousuf1234;
+	src:url(../font/you.ttf);
+}
+
+.main{
+	width:100%;
+	height:1000px;
+    background-color:#FFFFFF;
+}
+.side{
+	width:100%;
+    height:29px;
+	background-color:#bf428836;
+	text-align:center;
+	color:white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.heder{
+	width:100%;
+	height:200px;
+	background-color:#73D2E6;
+	position:relative;
+	margin-bottom:20px;
+	position:
+	
+}
+botton1.{
+	border:none;
+	size:28px;
+}
+.text1{
+	position:absolute;
+    left:50%;
+    bottom:50%;
+	color:#FFFFFF;
+	margin-left: -17%;
+    margin-bottom: -57px;
+	text-align: center;
+	
+
+}
+.main2{
+	margin:auto;
+	width:60%;
+	height:600px;
+	background-color:#BAB2D9;
+	margin-bottom:20px;
+	position:relative;
+	margin-left:36%;
+	position:relative;
+}
+.image1 {
+    position: absolute;
+    margin-left: 44px;
+    margin-top: 96px;
+	box-shadow: 10px 10px grey;
+}
+.image2 {
+    position: absolute;
+    right: 761px;
+    top: 135px;
+}
+
+.botton1{
+	text-decoration:none;
+	font-size: 25px;
+	color:white;
+}
+.rowtext {
+    position: relative;
+    left: 459px;
+    top: 195px;
+    color: #FFFFFF;
+    font-family: yousuf1234;
+    font-size: 20px;
+}
+.rowtext h1{
+	color:#FFFB00;
+	font-size:40px;
+}
